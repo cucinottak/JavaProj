@@ -1,7 +1,11 @@
 
 /*
  * IT-2660 - Lab 1
+<<<<<<< HEAD
  * //Student Name: Keira Cucinotta
+=======
+ * Student Name: Keira Cucinotta
+
  */
 
 public class Main {
